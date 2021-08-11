@@ -2,7 +2,7 @@
 
 Projeto criado no bootcamp HTML DEVELOPER da Digital Innovation One
 
-![Imagem Desafio 5](./img/preview.png "Title")
+![Imagem previa do projeto](https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/clone-login-insta/main/img/preview.PNG "Title")
 
 ### Utilizei para a criação do projetinho
 
